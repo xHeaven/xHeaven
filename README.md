@@ -13,5 +13,4 @@
   <img src='https://lanyard.cnrad.dev/api/258829716281098240'><br>
   <img src="https://github-readme-stats.vercel.app/api?username=xHeaven&show_icons=true&theme=dark&hide_border=true&border_radius=20">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=xHeaven&theme=dark&hide_border=true&border_radius=20">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHeaven&layout=compact&langs_count=7&theme=midnight-purple">
 </div>
