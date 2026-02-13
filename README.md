@@ -10,7 +10,7 @@
 
 <br/>
 
-Senior Software Engineer at [Helix Digital](https://github.com/helixdigital-io) and co-founder of [Luminarix Labs](https://github.com/luminarix). Based in Budapest, Hungary. I build Laravel & Shopify solutions by day and contribute to open source by night.
+Senior Software Engineer at [Helix Digital](https://github.com/helixdigital-io) and Co-Founder of [Luminarix Labs](https://github.com/luminarix). Based in Budapest, Hungary. I build Laravel & Shopify solutions by day and contribute to open source by night.
 
 <br/>
 
@@ -74,7 +74,7 @@ Senior Software Engineer at [Helix Digital](https://github.com/helixdigital-io) 
 
 ## Open Source
 
-Co-founder of [Luminarix Labs](https://github.com/luminarix) and core contributor to [Tempest PHP](https://github.com/tempestphp/tempest-framework).
+Co-Founder of [Luminarix Labs](https://github.com/luminarix) and Core Contributor to [Tempest PHP](https://github.com/tempestphp/tempest-framework).
 
 <table>
   <tr>
