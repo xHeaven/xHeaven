@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Laravel+%26+Shopify+solutions+at+Helix+Digital;Core+contributor+to+Tempest+PHP;Co-founder+of+Luminarix+Labs;Based+in+Budapest%2C+Hungary&font=JetBrains+Mono&center=true&width=520&height=45&color=58a6ff&vCenter=true&pause=1000&size=16" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Laravel+%26+Shopify+solutions+at+Helix+Digital;Core+contributor+to+Tempest;Co-founder+of+Luminarix+Labs;Based+in+Budapest%2C+Hungary&font=JetBrains+Mono&center=true&width=520&height=45&color=58a6ff&vCenter=true&pause=1000&size=16" />
 </a>
 
 </div>
@@ -74,7 +74,7 @@ Senior Software Engineer at [Helix Digital](https://github.com/helixdigital-io) 
 
 ## Open Source
 
-Co-Founder of [Luminarix Labs](https://github.com/luminarix) and Core Contributor to [Tempest PHP](https://github.com/tempestphp/tempest-framework).
+Co-Founder of [Luminarix Labs](https://github.com/luminarix) and Core Contributor to [Tempest](https://github.com/tempestphp/tempest-framework).
 
 <table>
   <tr>
