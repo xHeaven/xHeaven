@@ -3,14 +3,14 @@
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Laravel+%26+Shopify+solutions+at+Helix+Digital;Core+contributor+to+Tempest;Co-founder+of+Luminarix+Labs;Based+in+Budapest%2C+Hungary&font=JetBrains+Mono&center=true&width=520&height=45&color=58a6ff&vCenter=true&pause=1000&size=16" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Laravel+%26+Shopify+solutions+at+Helix+Digital;Core+contributor+to+Tempest+PHP;Co-founder+of+Luminarix+Labs;Based+in+Budapest%2C+Hungary&font=JetBrains+Mono&center=true&width=520&height=45&color=58a6ff&vCenter=true&pause=1000&size=16" />
 </a>
 
 </div>
 
 <br/>
 
-Senior Software Engineer at [Helix Digital](https://github.com/helixdigital-io) and Co-Founder of [Luminarix Labs](https://github.com/luminarix). Based in Budapest, Hungary. I build Laravel & Shopify solutions by day and contribute to open source by night.
+Senior Software Engineer at [Helix Digital](https://github.com/helixdigital-io) and co-founder of [Luminarix Labs](https://github.com/luminarix). Based in Budapest, Hungary. I build Laravel & Shopify solutions by day and contribute to open source by night.
 
 <br/>
 
@@ -74,7 +74,7 @@ Senior Software Engineer at [Helix Digital](https://github.com/helixdigital-io) 
 
 ## Open Source
 
-Co-Founder of [Luminarix Labs](https://github.com/luminarix) and Core Contributor to [Tempest](https://github.com/tempestphp/tempest-framework).
+Co-founder of [Luminarix Labs](https://github.com/luminarix) and core contributor to [Tempest PHP](https://github.com/tempestphp/tempest-framework).
 
 <table>
   <tr>
@@ -111,13 +111,8 @@ Co-Founder of [Luminarix Labs](https://github.com/luminarix) and Core Contributo
 </div>
 
 <div align="center">
-  <img width="38%" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=xHeaven&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xHeaven&theme=github_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xHeaven&theme=github_dark" />
 </div>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xHeaven&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22" />
 
 <br/>
 
